@@ -1,8 +1,6 @@
-
-
 ## DIEGO SOTELO
 
---------------------------------------------------------------
+---
 
 ## Evidencia 1 - Proyecto Limpio, Renderizado y sin errores
 
@@ -18,4 +16,8 @@
 
 ## Evidencia 4 - Estado en el componente
 
-![Evidencia 3](./image%30copy%303.png)
+![Evidencia 4](./image%20copy%203.png)
+
+## Evidencia 5 - Manejo de estado mediante eventos
+
+![Evidencia 5](./image%20copy%204.png)
